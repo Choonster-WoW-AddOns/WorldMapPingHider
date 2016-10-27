@@ -1,3 +1,9 @@
+## 1.05
+- Add missing changelog for 1.04
+
+## 1.04
+- Use manual changelog for CurseForge
+
 ## 1.03
 - Update to 7.1 (70100)
 
