@@ -1,5 +1,5 @@
 ﻿## Title: World Map Ping Hider
-## Interface: 60000
+## Interface: 70100
 ## Author: Choonster
 ## Version: @project-version@
 ## Notes: Hides the new "ping" animation that plays when you open the world map in 5.2.
